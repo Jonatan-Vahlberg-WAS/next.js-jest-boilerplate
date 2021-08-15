@@ -1,4 +1,4 @@
-# Next.js + jest + testing-ibrary boilerplate code
+# Next.js + jest + testing-library boilerplate code
 
 This project serves the singular function of being a clonable repository for quick start to a Next.js project
 
