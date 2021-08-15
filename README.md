@@ -32,3 +32,6 @@ append at the top of .spec.ts(x) or .test.ts(x) file this jest enviroment [decla
  */
 
 ```
+
+## Clone repository
+If you clone this repository change the **name** field in [package.json](package.json)
